@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DimaScientist. My real name is Dmitry Bakanov. I am Python developer
+- 👀 I’m interested in Data Sciense, Big Data
+- 🌱 I’m currently learning Data Science in Samara University
+- 💞️ I’m looking to collaborate for research and working on Data Science projects
+- 📫 You can reach me by my email: dima.bakanov.1999@mail.ru
